@@ -1,0 +1,6 @@
+curl_easy_init() — Yeni bir CURL oturumu başlatır.
+curl_easy_setopt() — Bu oturum için ayarlar yapılır (URL, method, header vs.)
+curl_easy_perform() — İstek yapılır ve cevap alınır.
+curl_easy_cleanup() — Oturum kapatılır, bellek temizlenir.
+
+curl_easy_setopt(curl, CURLOPT_CAINFO, "C:\\Users\\ertugrul\\Desktop\\cacert.pem");

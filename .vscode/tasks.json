@@ -9,6 +9,7 @@
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
                 "${file}",
+
                 "-IC:\\Users\\ertugrul\\Desktop\\curl-8.13.0_3-win64-mingw\\include",
                 "-LC:\\Users\\ertugrul\\Desktop\\curl-8.13.0_3-win64-mingw\\lib",
                 "-lcurl"
