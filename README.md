@@ -1,1 +1,1 @@
-# pickaxe
+# Girilen websitesinin robotstxt ve html dosyalarını ekrana yazdırır.
